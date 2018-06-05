@@ -1,0 +1,664 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.5.31)  5 JUN 2018 14:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis-main.tex
+(./thesis-main.tex
+LaTeX2e <2017-04-15>
+Babel <3.9r> and hyphenation patterns for 77 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count89
+\cnt@paperwidth=\count90
+\cnt@paperheight=\count91
+\cnt@hoffset=\count92
+\cnt@voffset=\count93
+\cnt@textheight=\count94
+\cnt@textwidth=\count95
+\cnt@topmargin=\count96
+\cnt@oddsidemargin=\count97
+\cnt@evensidemargin=\count98
+\cnt@headheight=\count99
+\cnt@headsep=\count100
+\cnt@marginparsep=\count101
+\cnt@marginparwidth=\count102
+\cnt@marginparpush=\count103
+\cnt@footskip=\count104
+\fheight=\count105
+\ref@top=\count106
+\ref@hoffset=\count107
+\ref@voffset=\count108
+\ref@head=\count109
+\ref@body=\count110
+\ref@foot=\count111
+\ref@margin=\count112
+\ref@marginwidth=\count113
+\ref@marginpar=\count114
+\Interval=\count115
+\ExtraYPos=\count116
+\PositionX=\count117
+\PositionY=\count118
+\ArrowLength=\count119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (650.0pt) is ignored.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count124
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count129
+\calc@Bcount=\count130
+\calc@Adimen=\dimen134
+\calc@Bdimen=\dimen135
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count131
+\calc@Cskip=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen136
+\AM@pageheight=\dimen137
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@global@opts=\toks18
+\AM@toc@title=\toks19
+\c@AM@survey=\count132
+\AM@templatesizebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen138
+\enit@toks=\toks20
+\enit@inbox=\box30
+\enitdp@description=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip56
+\RaggedLeftLeftskip=\skip57
+\RaggedRightLeftskip=\skip58
+\CenteringRightskip=\skip59
+\RaggedLeftRightskip=\skip60
+\RaggedRightRightskip=\skip61
+\CenteringParfillskip=\skip62
+\RaggedLeftParfillskip=\skip63
+\RaggedRightParfillskip=\skip64
+\JustifyingParfillskip=\skip65
+\CenteringParindent=\skip66
+\RaggedLeftParindent=\skip67
+\RaggedRightParindent=\skip68
+\JustifyingParindent=\skip69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count134
+) (./thesis-main.aux)
+\openout1 = `thesis-main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Try loading font information for OT1+pplj on input line 65.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplj.fd
+File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen139
+\scratchbox=\box31
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen140
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 42.67912pt
+* modes: twoside 
+* h-part:(L,W,R)=(41.93149pt, 450.0pt, 62.89726pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=450.0pt
+* \textheight=702.78308pt
+* \oddsidemargin=12.34062pt
+* \evensidemargin=-9.37273pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen141
+\big@size=\dimen142
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box32
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 65.
+ (./Title/thesis-title.tex
+<Figures/wsu-logo-large.png, id=1, 284.40703pt x 56.31743pt>
+File: Figures/wsu-logo-large.png Graphic file (type png)
+
+<use Figures/wsu-logo-large.png>
+Package pdftex.def Info: Figures/wsu-logo-large.png used on input line 6.
+(pdftex.def)             Requested size: 450.0pt x 89.10686pt.
+LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 11.
+
+<Figures/WSU_logo.png, id=3, 204.765pt x 254.3904pt>
+File: Figures/WSU_logo.png Graphic file (type png)
+
+<use Figures/WSU_logo.png>
+Package pdftex.def Info: Figures/WSU_logo.png used on input line 21.
+(pdftex.def)             Requested size: 179.99725pt x 223.63521pt.
+ [1
+
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./Figures/w
+su-logo-large.png> <./Figures/WSU_logo.png>])
+[2
+
+] (./Acknowledgements/acknowledgements.tex
+LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 1.
+) (./Declaration/declaration.tex
+[3
+
+] [4
+
+]) [5] (./Publications/contributions.tex [6
+
+
+]
+LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 9.
+) [7] [8
+
+] (./thesis-main.toc
+LaTeX Font Info:    Try loading font information for U+zeur on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+zeus on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+))
+\tf@toc=\write3
+\openout3 = `thesis-main.toc'.
+
+ [9] [10
+
+]
+(./thesis-main.lof)
+\tf@lof=\write4
+\openout4 = `thesis-main.lof'.
+
+ [11] [12
+
+] (./thesis-main.lot)
+\tf@lot=\write5
+\openout5 = `thesis-main.lot'.
+
+
+(./Abbreviations/abbreviations.tex [13] [14
+
+]) [15] [16
+
+]
+(./Abstract/abstract.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17
+
+])
+[18]
+Chapter 1.
+<Figures/chapter1abs.png, id=71, 599.6718pt x 247.02321pt>
+File: Figures/chapter1abs.png Graphic file (type png)
+
+<use Figures/chapter1abs.png>
+Package pdftex.def Info: Figures/chapter1abs.png used on input line 88.
+(pdftex.def)             Requested size: 450.0pt x 185.37248pt.
+ [1
+
+ <./Figures/chapter1abs.png>]
+(./Chapter1/chapter1.tex
+LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 1.
+
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [2
+
+]
+<Figures/chapter1figure1.png, id=80, 2007.5pt x 1204.5pt>
+File: Figures/chapter1figure1.png Graphic file (type png)
+
+<use Figures/chapter1figure1.png>
+Package pdftex.def Info: Figures/chapter1figure1.png used on input line 8.
+(pdftex.def)             Requested size: 450.0pt x 269.98994pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./Figures/chapter1figure1.png>] [4]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] [6])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7
+
+
+] [8
+
+]
+Chapter 2.
+(./Chapter2/chapter2.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10]
+Chapter 3.
+(./Conclusions/conclusions.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+])
+(./thesis-main.bbl [12]
+Missing character: There is no ‚ in font pplr9o!
+Missing character: There is no Ä in font pplr9o!
+Missing character: There is no ê in font pplr9o!
+) [13
+
+] [14
+
+
+]
+Appendix A.
+(./Appendices/appendix1.tex) [15] [16
+
+]
+Appendix B.
+<print.pdf, id=128, 597.23125pt x 845.1575pt>
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf>
+Package pdftex.def Info: print.pdf used on input line 117.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf>
+Package pdftex.def Info: print.pdf used on input line 117.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<print.pdf, id=131, page=1, 597.23125pt x 845.1575pt>
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf, page 1>
+Package pdftex.def Info: print.pdf, page1 used on input line 117.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: print.pdf Graphic file (type pdf)
+
+<use print.pdf, page 1>
+Package pdftex.def Info: print.pdf, page1 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [17]
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf, page 1>
+Package pdftex.def Info: print.pdf, page1 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf, page 1>
+Package pdftex.def Info: print.pdf, page1 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: print.pdf Graphic file (type pdf)
+
+<use print.pdf, page 1>
+Package pdftex.def Info: print.pdf, page1 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [18 <./print.pdf>]
+<print.pdf, id=288, page=2, 597.23125pt x 845.1575pt>
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf, page 2>
+Package pdftex.def Info: print.pdf, page2 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: print.pdf Graphic file (type pdf)
+
+<use print.pdf, page 2>
+Package pdftex.def Info: print.pdf, page2 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: print.pdf Graphic file (type pdf)
+ <use print.pdf, page 2>
+Package pdftex.def Info: print.pdf, page2 used on input line 117.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [19 <./print.pdf>]
+(./thesis-main.aux) ) 
+Here is how much of TeX's memory you used:
+ 5724 strings out of 493064
+ 86632 string characters out of 6138159
+ 267556 words of memory out of 5000000
+ 9044 multiletter control sequences out of 15000+600000
+ 39314 words of font info for 97 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 40i,18n,46p,548b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
+ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
+pfb>
+Output written on thesis-main.pdf (37 pages, 13894750 bytes).
+PDF statistics:
+ 423 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

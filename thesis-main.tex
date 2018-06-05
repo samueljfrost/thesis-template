@@ -1,0 +1,120 @@
+%	First attempt at making PhD Thesis template in LaTeX.
+%	Western Sydney University PhD Thesis Template
+%	Copyright (C) 2017-2018  Samuel J. Frost
+%	Email: samuel.frost.1991@gmail.com
+%
+%	This program is free software: you can redistribute it and/or modify
+%	it under the terms of the GNU General Public License as published by
+%	the Free Software Foundation, either version 3 of the License, or
+%	(at your option) any later version.
+%
+%	This program is distributed in the hope that it will be useful,
+%	but WITHOUT ANY WARRANTY; without even the implied warranty of
+%	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%	GNU General Public License for more details.
+%
+%	You should have received a copy of the GNU General Public License
+%	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+%
+%	========================================================================
+%	
+%	The initial set-up of the document class. Experimenting with book format
+%	to begin with. Change 'twoside' to 'oneside' to go from having print
+%	on both sides to only on the right. The 'openright' command forces title
+%	pages to only be on the right hand side. 
+
+	\documentclass[12pt,openright,twoside]{report} % remove twoside to make like book
+	\renewcommand{\baselinestretch}{2}	% 1.5 spacing
+	\usepackage{fancyhdr}
+		\fancyheadoffset{0pt}
+		\fancyhead{}
+		\fancyhead[RO]{A Western Sydney University Thesis Template} % add ,LE for same on both pages
+		\fancyfoot{}
+		\fancyfoot[LE,RO]{\thepage}
+		\fancyfoot[LO,RE]{Chapter \thechapter}
+		\fancyfoot[CO,CE]{Your Name}
+		\renewcommand{\headrulewidth}{0.4pt}
+	   	\renewcommand{\footrulewidth}{0.4pt}
+	\usepackage{graphicx}					% graphics management
+		\graphicspath{ {Figures/} }			% folder where figures are stored in parent directory
+	\usepackage{layout}
+	\usepackage{indentfirst}				% indentation at start of paragraph
+	\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=15mm,textwidth=450pt,textheight=650pt]{geometry}						% paper set-up	
+	\usepackage{lscape}
+	\usepackage[osf,sc]{mathpazo}			% to stop equations being italicised
+	\usepackage{eulervm}					
+	\usepackage[labelfont=bf]{caption}		% bold figure number title	
+	\usepackage{float}
+	\usepackage{booktabs}
+	\usepackage{multirow}
+	\usepackage{cite}						% main reason is to join references together i.e. [1-3] instead of [1,2,3]
+	\bibliographystyle{unsrt}			 % unsrt also okay
+	\renewcommand{\bibname}{References}		% change name of bibliography to references
+	\usepackage[nottoc]{tocbibind}			% to include references in bibliography remove numbib to remove chapter number
+	\usepackage{pdfpages}
+	\usepackage{enumitem}					% bold numbers in numerical list
+	\usepackage{ragged2e}					% for justifying text after \centering
+	\usepackage{lipsum}							% only for filling template with text
+%
+%	
+%	========================================================================
+
+\title{A Western Sydney University Thesis Template}	% running title - insert your title here
+\author{Your Name} %replace with your name
+\date{2018}
+\begin{document}
+	\pagenumbering{roman} % switch between roman and arabic when desired
+	\input{Title/thesis-title} % ensure your folder structure and file names are called correctly
+	\renewcommand{\baselinestretch}{2} % switching between different text-spacing - there are more efficient ways of doing so
+	\cleardoublepage
+	\input{Acknowledgements/acknowledgements}
+	\input{Declaration/declaration} 							% statement of authenticity
+	\clearpage
+	\input{Publications/contributions}
+	\renewcommand{\baselinestretch}{1.5}\normalsize
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	\input{Abbreviations/abbreviations}
+	\renewcommand{\baselinestretch}{2}\normalsize
+	\cleardoublepage
+	\input{Abstract/abstract}
+
+	\chapter{The First Chapter} \label{Chapter 1}
+	\pagestyle{fancy}
+	\pagenumbering{arabic}
+		\begin{figure}[!h]
+		\centering
+		\includegraphics[width=\textwidth]{chapter1abs}	
+		\end{figure}
+	\noindent The way this page is presented shows how I structured my chapters. Each chapter had a graphical abstract (above) and was a based on a publication. The text here was replaced with the citation, and description of what I had contributed to the manuscript. Feel free to use your own design here.
+	\clearpage
+	\input{Chapter1/chapter1}
+
+	\chapter{The Next Chapter} \label{Chapter 2}
+	% feel free to change the style of your chapter openings, but, remember to keep it consistent
+	\input{Chapter2/chapter2}
+	
+	
+	\chapter{Conclusions}
+	\input{Conclusions/conclusions}
+
+	\renewcommand{\baselinestretch}{1.5}\normalsize
+	\bibliography{references}
+	\renewcommand{\baselinestretch}{2}\normalsize
+	\clearpage
+	
+	\appendix
+	
+	\chapter{Appendix 1}
+	\input{Appendices/appendix1}
+	
+	\chapter{Paper 1} \label{Appendix 2}
+	\noindent {\Large Include Any Published Papers Easily In Your Appendices}
+	\newline
+	\noindent Be sure to request permissions from journal and include that permission here. I have just imported the source code for thesis-main.tex as a pdf to demonstrate. 
+	
+	\includepdf[pages=-]{print.pdf} % this inputs the pdf into the final pdf, change the name to your pdf
+	
+
+\end{document}
